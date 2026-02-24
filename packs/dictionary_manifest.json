@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "packUrl": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/dictionary_pack_v1.json.gz",
+  "gzip": true,
+  "format": "json_array",
+  "sizeBytes": 106669,
+  "notes": "Wikidata(CC0) 기반: 2507건"
+}

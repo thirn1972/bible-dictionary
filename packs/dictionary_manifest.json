@@ -4,5 +4,33 @@
   "gzip": true,
   "format": "json_array",
   "sizeBytes": 138394,
-  "notes": "Wikidata(CC0) + custom(수제) merge. added=464, merged=208, total=2971"
+  "multiVersion": 3,
+  "multiFormat": "multi_pack_v2",
+  "packs": [
+    {
+      "name": "base",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/dictionary_pack_v1.json.gz",
+      "gzip": true,
+      "format": "json_array",
+      "sizeBytes": 106669
+    },
+    {
+      "name": "custom",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/custom_pack_v1.json.gz",
+      "gzip": true,
+      "format": "json_array",
+      "sizeBytes": 31743
+    },
+    {
+      "name": "easton",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/easton_pack_v1.json.gz",
+      "gzip": true,
+      "format": "json_array",
+      "sizeBytes": 808137
+    }
+  ],
+  "notes": "Legacy(single)+Multi(base/custom/easton). New clients prioritize custom and show Easton longDef."
 }

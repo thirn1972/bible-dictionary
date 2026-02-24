@@ -29,7 +29,7 @@
       "url": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/easton_pack_v1.json.gz",
       "gzip": true,
       "format": "json_array",
-      "sizeBytes": 808137
+      "sizeBytes": 808138
     }
   ],
   "notes": "Legacy(single)+Multi(base/custom/easton). New clients prioritize custom and show Easton longDef."

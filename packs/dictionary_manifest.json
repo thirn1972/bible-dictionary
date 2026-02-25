@@ -4,7 +4,7 @@
   "gzip": true,
   "format": "json_array",
   "sizeBytes": 138394,
-  "multiVersion": 11,
+  "multiVersion": 12,
   "multiFormat": "multi_pack_v2",
   "packs": [
     {
@@ -17,12 +17,12 @@
     },
     {
       "name": "custom",
-      "version": 9,
-      "url": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/custom_pack_v9.json.gz",
+      "version": 10,
+      "url": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/custom_pack_v10.json.gz",
       "gzip": true,
       "format": "json_array",
-      "sizeBytes": 46884,
-      "sha256": "5a00fcde39696237e1a4faf74b8943ea674ae33d561a23658dd942c72567131f"
+      "sizeBytes": 47364,
+      "sha256": "67252dcba3e8a7f17bc5ce611b941c2ebd114f12cf7eac5ebd6f433379991c1b"
     },
     {
       "name": "easton",

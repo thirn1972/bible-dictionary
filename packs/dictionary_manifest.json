@@ -1,37 +1,8 @@
 {
-  "version": 2,
-  "packUrl": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/dictionary_pack_v2.json.gz",
+  "version": 12,
+  "packUrl": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/dictionary_pack_v12.json.gz",
   "gzip": true,
   "format": "json_array",
-  "sizeBytes": 138394,
-  "multiVersion": 17,
-  "multiFormat": "multi_pack_v2",
-  "packs": [
-    {
-      "name": "base",
-      "version": 1,
-      "url": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/dictionary_pack_v1.json.gz",
-      "gzip": true,
-      "format": "json_array",
-      "sizeBytes": 106669
-    },
-    {
-      "name": "custom",
-      "version": 15,
-      "url": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/custom_pack_v15.json.gz",
-      "gzip": true,
-      "format": "json_array",
-      "sizeBytes": 53960,
-      "sha256": "07a98b968eb1d6bd9618c60c1a4517d884f0674b67cb219a08001eeb9e273e87"
-    },
-    {
-      "name": "easton",
-      "version": 1,
-      "url": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/easton_pack_v1.json.gz",
-      "gzip": true,
-      "format": "json_array",
-      "sizeBytes": 808138
-    }
-  ],
-  "notes": "Legacy(single)+Multi(base/custom/easton). New clients prioritize custom and show Easton longDef."
+  "sizeBytes": 169320,
+  "notes": "Wikidata(CC0) + custom(수제) merge. added=600, merged=855, total=3571"
 }

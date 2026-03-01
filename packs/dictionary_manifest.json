@@ -1,6 +1,6 @@
 {
-  "version": 13,
-  "packUrl": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/dictionary_pack_v13.json.gz",
+  "version": 14,
+  "packUrl": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/dictionary_pack_v14.json.gz",
   "gzip": true,
   "format": "json_array",
   "sizeBytes": 172011,

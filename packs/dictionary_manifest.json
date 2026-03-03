@@ -1,8 +1,8 @@
 {
-  "version": 17,
-  "packUrl": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/dictionary_pack_v17.json.gz",
+  "version": 19,
+  "packUrl": "https://raw.githubusercontent.com/thirn1972/bible-dictionary/main/packs/dictionary_pack_v19.json.gz",
   "gzip": true,
   "format": "json_array",
-  "sizeBytes": 187325,
+  "sizeBytes": 179440,
   "notes": "Wikidata(CC0) + custom(수제) merge. added=1072, merged=633, total=3579"
 }
